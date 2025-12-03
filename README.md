@@ -31,7 +31,7 @@ Each project includes screenshots, summaries, and documentation of hands-on skil
 **Location:**  
 `Project 2 - Nmap Scanning/`
 
-## 🛠 Tools Used
+##  Tools Used
 - Kali Linux (VMware Workstation)
 - Nmap
 - Linux command line (Bash)
