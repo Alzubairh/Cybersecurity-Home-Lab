@@ -1,4 +1,4 @@
-# Cybersecurity Home Lab – Zubair Helal
+# Cybersecurity Home Lab – ALzubair Helal
 
 This repository contains my personal cybersecurity home lab projects built in a Kali Linux virtual machine.  
 Each project includes screenshots, summaries, and documentation of hands-on skills I practiced to learn real-world IT and security concepts.
