@@ -1,0 +1,19 @@
+ Project 3 — Vulnerable Lab (Kali + Metasploitable2)
+
+Goal
+Build a safe, isolated environment to practice enumeration, weak credential discovery, and Linux user management.
+
+Tasks Completed
+- Installed Metasploitable2 as a target VM
+- Configured NAT/Host-Only networking between Kali and Metasploitable
+- Verified connectivity between machines
+- Searched for weak password files:
+  find / -name "*pass*" 2>/dev/null | head -20
+- Created a new user:
+  useradd hacker
+  echo "hacker:password123" | chpasswd
+- Practiced Linux permissions and inspection
+- Collected screenshots
+
+Notes
+All activity performed on an isolated internal network only.
