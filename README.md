@@ -1,4 +1,4 @@
-Cybersecurity Home Lab – AlZubair Helal
+Cybersecurity Home Lab – Alzubair Helal
 
 This repository contains my personal cybersecurity home lab projects built in a Kali Linux virtual machine and a vulnerable Metasploitable2 host.  
 Each project includes documentation of hands-on skills I practiced to learn real-world IT and security concepts.
@@ -23,7 +23,7 @@ Highlights:
 - Ran basic scans against scanme.nmap.org.
 - Collected scan results and documented open ports / services.
 
-Folder: `Project 2 - Nmap Scanning/`
+Folder: `Project 2 - Nmap Scanning`
 
 Project 3 – Vulnerable Lab (Kali + Metasploitable2)
 
