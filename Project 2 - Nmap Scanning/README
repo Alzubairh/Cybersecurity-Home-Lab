@@ -1,0 +1,25 @@
+Project 2 – Nmap Scanning (Reconnaissance)
+
+Goal
+Use Nmap to perform legal network reconnaissance and understand open ports, services, and basic host information.
+
+Environment
+- Kali Linux VM
+- Nmap
+- Public test host: `scanme.nmap.org`
+
+Tasks Completed
+- Verified Nmap installation:
+  - `nmap --version`
+- Ran a basic scan:
+  - `nmap scanme.nmap.org`
+- Collected information on open ports and services.
+- Ran a more detailed / aggressive scan for OS and version detection:
+  - `nmap -A scanme.nmap.org`
+- Saved outputs and screenshots for analysis and documentation.
+
+Skills Demonstrated
+- Port scanning and service discovery
+- OS and version detection basics
+- Reading and interpreting Nmap output
+- Applying reconnaissance techniques on legal targets
