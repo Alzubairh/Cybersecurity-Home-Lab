@@ -1,0 +1,25 @@
+Project 1 – Network Verification (Kali Linux)
+
+Goal
+Verify that the Kali Linux virtual machine is correctly configured on the network and can reach external hosts.
+
+Environment
+- Kali Linux VM
+- VirtualBox / VMware (local hypervisor)
+- NAT or Bridged networking
+
+Tasks Completed
+- Listed network interfaces and IP configuration using:
+  - `ip a`
+- Checked the default route and gateway.
+- Verified Internet connectivity with:
+  - `ping 8.8.8.8`
+  - `ping google.com`
+- Used basic troubleshooting to confirm DNS and routing worked.
+- Documented output and steps with screenshots.
+
+Skills Demonstrated
+- Basic Linux networking
+- Network connectivity testing
+- DNS and routing verification
+- Documentation of troubleshooting steps
